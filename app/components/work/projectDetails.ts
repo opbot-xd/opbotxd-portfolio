@@ -1,14 +1,10 @@
 import {
     SiFlask,
     SiFramer,
-    SiGithub, SiNeovim, SiFirebase,SiDjango,SiRedis,SiPostgresql,SiFlutter,SiPython,SiHuggingface,SiCelery,
-    SiNextdotjs,
+    SiDjango,SiRedis,SiPostgresql,SiFlutter,SiPython,SiCelery,
     SiReact,
-    SiRust,
     SiTailwindcss,
     SiTypescript,
-    SiWebgl,
-    SiZig
 } from "react-icons/si";
 import {IconType} from "react-icons";
 

@@ -6,10 +6,9 @@ import {
     SiGit,
     SiGithub,SiPostgresql,SiMysql,
     SiJavascript, SiNextdotjs, SiReact, SiTypescript,
-    SiMongodb, SiDjango, SiPython, SiCplusplus, SiExpress, SiGitLab, SiDeno, SiBun, SiRedis, SiFlask, SiDocker, SiSqlite, SiTailwindcss,SiBootstrap,
-    SiNodedotjs, SiSvelte, SiFlutter, SiRadixui, SiKalilinux, SiBurpsuite
+    SiMongodb, SiDjango, SiPython, SiCplusplus, SiExpress, SiDeno, SiBun, SiRedis, SiFlask, SiDocker, SiSqlite, SiTailwindcss,SiBootstrap,
+    SiNodedotjs, SiSvelte, SiFlutter,  SiKalilinux, 
 } from "react-icons/si";
-import { SiShadcnui } from "react-icons/si";
 import AnimatedTools from "../animations/AnimatedTools.tsx";
 
 const Tools = () => {
