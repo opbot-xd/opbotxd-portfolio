@@ -41,9 +41,9 @@ export const metadata: Metadata = {
     ],
     colorScheme: "dark",
     openGraph: {
-        title: "Portfolio template - Eldora UI",
+        title: "Portfolio",
         description:
-      "Eldora UI is a portfolio template built with React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable.",
+      "Hi I'm Krishna Awasthi pursuing my B.tech at Indian Institute of Technology, Roorkee.",
         url: "https://www.eldoraui.site/",
         siteName: "www.eldoraui.site",
         images: [
